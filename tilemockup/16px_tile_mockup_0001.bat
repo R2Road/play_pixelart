@@ -1,3 +1,8 @@
+cls
+
+set aseprite_file_name=%~n0.aseprite
+set png_file_name=%~n0.png
+
 call ../asepriteExporter_PNG_LayerMerge_Title.bat^
- "16px_tile_mockup_0001.aseprite"^
- 16px_tile_mockup_0001.png
+ %aseprite_file_name%^
+ %png_file_name%
