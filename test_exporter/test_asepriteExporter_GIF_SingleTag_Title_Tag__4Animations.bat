@@ -6,7 +6,7 @@ set target_tag_names=idl wlk run jmp atk
 set scale_amount=8
 
 (for %%t in (%target_tag_names%) do ( 
-call ../asepriteExporter_GIF_SingleTag_LayerMerge_Title_Tag.bat^
+call ../asepriteExporter_GIF_SingleTag_Title_Tag.bat^
  %aseprite_file_name%^
  %export_file_name%^
  %%t^
