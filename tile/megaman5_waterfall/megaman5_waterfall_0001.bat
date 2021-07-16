@@ -1,8 +1,12 @@
 cls
 
 set aseprite_file_name=%~n0.aseprite
-set png_file_name=%~n0.png
+set export_file_name=%~n0
+set target_tag_name=mockup
+set scale_amount=8
 
-call ../../asepriteExporter_PNG_LayerMerge_Title.bat^
+call ../../asepriteExporter_GIF_SingleTag_Title_Tag.bat^
  %aseprite_file_name%^
- %png_file_name%
+ %export_file_name%^
+ %target_tag_name%^
+ %scale_amount%
