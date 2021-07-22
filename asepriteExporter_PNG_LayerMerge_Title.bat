@@ -18,7 +18,7 @@ echo on
  -b^
  %1^
  --scale %scale_value%^
- --filename-format "{title}.{extension}"^
+ --filename-format "{title}.png"^
  --save-as %2
 
 pause
