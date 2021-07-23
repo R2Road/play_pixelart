@@ -13,6 +13,7 @@
 
 <p float:left;">
 <img src="https://github.com/R2Road/pixelart_practice/blob/master/tile/megaman5_waterfall/megaman5_waterfall_0001_mockup.gif" width=30% height=30%></img>
+<img src="https://github.com/R2Road/pixelart_practice/blob/master/item/coin_collection_0001.gif" width=30% height=30%></img>
 </p>
 
 ## 작업환경 | Environment
