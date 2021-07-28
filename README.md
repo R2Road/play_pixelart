@@ -19,7 +19,7 @@
 <p float:left;">
 <img src="https://github.com/R2Road/pixelart_practice/blob/master/house/house_0001.png" width=30% height=30%></img>
 <img src="https://github.com/R2Road/pixelart_practice/blob/master/house/house_0002.png" width=30% height=30%></img>
-<img src="https://github.com/R2Road/pixelart_practice/blob/master/house/house_0003.png" width=30% height=30%></img>
+<img src="https://github.com/R2Road/pixelart_practice/blob/master/house/house_0003_idl.gif" width=30% height=30%></img>
 </p>
 
 ## 작업환경 | Environment
