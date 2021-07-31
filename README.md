@@ -12,9 +12,10 @@
 </p>
 
 <p float:left;">
-<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/house/house_0001.png" width=30% height=30%></img>
-<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/house/house_0002.png" width=30% height=30%></img>
-<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/house/house_0003_idl.gif" width=30% height=30%></img>
+<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/house/house_0001.png" width=22% height=22%></img>
+<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/house/house_0002.png" width=22% height=22%></img>
+<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/house/house_0003_idl.gif" width=22% height=22%></img>
+<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/house/house_0005.png" width=22% height=22%></img>
 </p>
 
 <p float:left;">
