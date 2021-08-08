@@ -19,8 +19,8 @@
 </p>
 
 <p float:left;">
-<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/pixel_dailies/pixel_dailies_20210802_golden_sun_portrait.png" width=30% height=30%></img>
-<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/pixel_dailies/pixel_dailies_20210805_secret_entrance.png" width=30% height=30%></img>
+<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/pixel_dailies/pixel_dailies_20210801_golden_sun_portrait.png" width=30% height=30%></img>
+<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/pixel_dailies/pixel_dailies_20210804_secret_entrance.png" width=30% height=30%></img>
 </p>
 
 <p float:left;">
