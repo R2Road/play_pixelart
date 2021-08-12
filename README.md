@@ -6,7 +6,7 @@
 </p>
 
 <p float:left;">
-<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/artwork/artwork_0004.png" width=30% height=30%></img>
+<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/landscape/landscape_0001.png" width=30% height=30%></img>
 <img src="https://github.com/R2Road/pixelart_practice/blob/master/works/fan_art/fan_art_0001_one_punch_man.png" width=30% height=30%></img>
 <img src="https://github.com/R2Road/pixelart_practice/blob/master/works/fan_art/fan_art_0002_one_punch_man.png" width=30% height=30%></img>
 </p>
