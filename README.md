@@ -3,6 +3,7 @@
 <img src="https://github.com/R2Road/pixelart_practice/blob/master/works/cat/cat_0001.gif" width=30% height=30%></img>
 <img src="https://github.com/R2Road/pixelart_practice/blob/master/works/cat/cat_0002.gif" width=30% height=30%></img>
 <img src="https://github.com/R2Road/pixelart_practice/blob/master/works/cat/cat_0004.gif" width=30% height=30%></img>
+<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/cat/cat_0005_0002_ani_2.gif" width=30% height=30%></img>
 </p>
 
 <p float:left;">
