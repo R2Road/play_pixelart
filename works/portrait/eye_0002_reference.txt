@@ -1,0 +1,4 @@
++ info
+- platform : twitter
+- owner : @rice_omori
+- link : https://twitter.com/rice_omori/status/1428703489631211522
