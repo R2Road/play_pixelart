@@ -19,7 +19,7 @@ echo on
  %1^
  --frame-range 0,0^
  --scale %scale_value%^
- --filename-format "{title}.{extension}"^
+ --filename-format "{title}.png"^
  --save-as %2
 
 pause
