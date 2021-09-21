@@ -25,6 +25,9 @@
 <img src="https://github.com/R2Road/pixelart_practice/blob/master/works/pixel_dailies/pixel_dailies_20210804_secret_entrance.png" width=30% height=30%></img>
 <img src="https://github.com/R2Road/pixelart_practice/blob/master/works/pixel_dailies/pixel_dailies_20210805_reptilian.png" width=30% height=30%></img>
 <img src="https://github.com/R2Road/pixelart_practice/blob/master/works/pixel_dailies/pixel_dailies_20210807_landscape.png" width=30% height=30%></img>
+<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/pixel_dailies/pixel_dailies_20210903_toucan.png" width=30% height=30%></img>
+<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/pixel_dailies/pixel_dailies_20210919_musicbox.png" width=30% height=30%></img>
+<img src="https://github.com/R2Road/pixelart_practice/blob/master/works/pixel_dailies/pixel_dailies_20210920_origami.gif" width=30% height=30%></img>
 </p>
 
 <p float:left;">
