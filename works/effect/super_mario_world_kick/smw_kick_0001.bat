@@ -1,8 +1,10 @@
 cls
 
 set aseprite_file_name=%~n0.aseprite
-set png_file_name=%~n0.png
+set export_file_name=%~n0
+set scale_amount=2
 
-call ../../asepriteExporter_PNG_LayerMerge_Title.bat^
+call ../../asepriteExporter_GIF_AllFrames_Title.bat^
  %aseprite_file_name%^
- %png_file_name%
+ %export_file_name%^
+ %scale_amount%
