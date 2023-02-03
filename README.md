@@ -6,7 +6,7 @@
   - paint .net
 ```
 
-# Pixelart Practice
+# Play Pixelart
 <p float:left;">
 <img src="https://github.com/R2Road/pixelart_practice/blob/master/works/cat/cat_0001.gif" width=30% height=30%></img>
 <img src="https://github.com/R2Road/pixelart_practice/blob/master/works/cat/cat_0002.gif" width=30% height=30%></img>
